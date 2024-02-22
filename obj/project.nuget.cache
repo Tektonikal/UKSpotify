@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "24+kX+vY4WR3i4k9VqJgQ5REljkOaGeSl+MtX1Ap4O2njWMV/rP+r0akre5s0ehBtdxB9WZ/4oNzOg/YqghxDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\H\\Desktop\\UKSpotify\\MyFirstPlugin\\MyFirstPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\bepinex.core\\6.0.0-be.688\\bepinex.core.6.0.0-be.688.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\bepinex.unity.mono\\6.0.0-be.688\\bepinex.unity.mono.6.0.0-be.688.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\harmonyx\\2.10.1\\harmonyx.2.10.1.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\monomod.runtimedetour\\22.3.23.4\\monomod.runtimedetour.22.3.23.4.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\monomod.utils\\22.5.1.1\\monomod.utils.22.5.1.1.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\semanticversioning\\2.0.2\\semanticversioning.2.0.2.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\unityengine\\5.6.1\\unityengine.5.6.1.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\unityengine.modules\\2019.4.40\\unityengine.modules.2019.4.40.nupkg.sha512"
+  ],
+  "logs": []
+}
